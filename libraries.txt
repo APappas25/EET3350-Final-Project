@@ -5,3 +5,5 @@
 Servo
 
 HX711 Arduino Library
+Keypad
+LiquidCrystal I2C
